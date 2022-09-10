@@ -2,7 +2,7 @@
 
 I am Anıl. I am a Jr Java Software Engineer 
 - 🙃 Pronouns: He/Him
-- 👀 I’m interested in [Java-Spring Boot](https://spring.io). I know Django, RDMS, Microservice Architecture, DevOps tools, AWS
+- 👀 I’m working on [Java-Spring Boot](https://spring.io),I am eager to build microservice and monolithic architecture software. Besides Spring Boot, I also know Django, RDMS, Microservice Architecture, DevOps Tools, AWS
 #### 📫 How to reach me
 - Email: [`Click To Mail!`](mailto:anilduyguc3535@gmail.com) or copy **`anilduyguc3535@gmail.com`**
 - LinkedIn: [`Click To See a Profile Page!`](https://www.linkedin.com/in/anil-duyguc/)
